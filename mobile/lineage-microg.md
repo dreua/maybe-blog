@@ -4,7 +4,7 @@
 
 * The Pixel 3a by Google is currently available for ~ 160 € refurbished. (2022-05-26)
 * The hardware is still good enough for my needs, I like the size of this phone and the fact that it still has a headphone jack.
-Hardware codename: sargo
+* Hardware codename: sargo
 * Android version: 12 (SP2A.220505.002) by Google. Support by Google will end in May 2022!
 * My laptop runs Fedora Linux 35 and some well aged Android Studio and its Android Tools.
 
